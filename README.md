@@ -19,7 +19,7 @@ justin.wijaya002@binus.ac.id
   <tbody>
     <tr>
       <td align="center">
-        <img src="Phoneix Pict.png" alt="1" style="width:100%;height:auto;">
+        <img src="" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="" alt="2" style="width:100%;height:auto;">
