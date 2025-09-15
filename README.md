@@ -13,7 +13,7 @@ justin.wijaya002@binus.ac.id
   <thead>
     <tr>
       <th width="50%" align="center"><a>Phoneix run </a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Annonim gameds</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Annonim games</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
