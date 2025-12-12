@@ -47,7 +47,7 @@ justin.wijaya002@binus.ac.id
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a></a></th> <!--tittle 3-->
+      <th width="50%" align="center">Shoot ME!<a></a></th> <!--tittle 3-->
       <th width="50%" align="center"><a></a></th> <!--tittle 4-->
     </tr>
   </thead>
