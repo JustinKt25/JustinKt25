@@ -107,7 +107,7 @@ Berikut adalah beberapa teknologi dan alat utama yang saya kuasai:
 
             **Detail Teknis:**
             * **Durasi Pengerjaan:** 4 jam.
-            * **Tim:** Justin frederline wijaya (game programer,artist dan deigner).
+            * **Tim:** Justin frederline wijaya (game programer,artist dan designer).
       </td>
       <td valign="text-top">
             **Deskripsi Singkat:** *colboy* adalah game simulasi manajemen sumber daya yang menarik, menempatkan pemain pada posisi seorang mahasiswa yang harus menghadapi dilema keuangan nyata di tengah-tengah masa perkuliahan.
