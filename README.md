@@ -66,7 +66,6 @@ Berikut adalah beberapa teknologi dan alat utama yang saya kuasai:
             **Detail Teknis:**
             * **Durasi Pengerjaan:** 6 Jam.
             * **Tim:** Justin Frederline Wijaya (Programmer,desain dan Artist).
-      </td>
     </tr>
     <tr>
       <td align="center">
