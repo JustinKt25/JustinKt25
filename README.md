@@ -131,15 +131,7 @@ Berikut adalah beberapa teknologi dan alat utama yang saya kuasai:
   </tbody>
 </table>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=dark" alt="Justin's GitHub Stats"/>
-</p>
-
----
 
 ## 📩 Hubungi Saya
 
