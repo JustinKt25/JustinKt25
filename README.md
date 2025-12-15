@@ -6,11 +6,11 @@
 
 Halo! Saya **Justin Frederline Wijaya**, atau dikenal sebagai **JustinKt_**.
 
-Saya adalah seorang *Game Developer* yang **Sangat bersemangat** dalam menciptakan Game-game simulator dan Game Roblox. Saya memiliki spesialisasi dalam pengembangan game menggunakan **Unity (C#)** dan juga aktif dalam menciptakan pengalaman imersif di platform **Roblox** menggunakan bahasa **Lua**.
+Saya adalah seorang *Game Programer* yang **Sangat bersemangat** dalam membuat Game-game simulator dan Game Roblox. Saya memiliki keahlian dalam pengembangan game menggunakan **Unity (C#)** dan juga aktif dalam menciptakan pengalaman imersif di platform **Roblox** menggunakan bahasa **Lua**.
 
-Selain pengembangan game, saya juga memiliki kemampuan dalam pengembangan web dasar menggunakan **HTML, CSS, dan JavaScript**.
+Selain game development , saya juga memiliki kemampuan dalam pengembangan web dasar menggunakan **HTML, CSS, dan JavaScript**.
 
-Saya saat ini menempuh studi sarjana dan aktif mencari proyek kolaborasi yang menantang!
+Saya sedang berkuliah di binus universty Jurusan Game application Technology semester 5
 
 > **Minat Spesialisasi:** Game Programming (C#, Unity, Lua, Roblox)
 
