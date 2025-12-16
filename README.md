@@ -117,9 +117,9 @@ Berikut adalah beberapa teknologi dan alat utama yang saya kuasai:
     </tr>
     <tr>
       <td align="center">
-            <a href="URL_LINK_MAIN_SHOOT_ME" target="_blank">🕹️ Mainkan</a>
+            <a href="https://justinkt25.itch.io/shoot-me" target="_blank">🕹️ Mainkan</a>
             |
-            <a href="URL_REPO_SHOOT_ME_DETAILS" target="_blank">📄 Selengkapnya</a>
+            <a href="https://github.com/JustinKt25/MygameUnity_" target="_blank">📄 Selengkapnya</a>
       </td>
       <td align="center">
             <a href="https://easyacount.itch.io/colboy-alpha" target="_blank">🕹️ Mainkan</a>
