@@ -94,7 +94,7 @@ Berikut adalah beberapa teknologi dan alat utama yang saya kuasai:
   <tbody>
     <tr>
       <td align="center">
-        <img src="URL_GAMBAR_SHOOT_ME" alt="Tangkapan Layar Game Shoot ME!" style="width:100%;max-width:300px;height:auto;border-radius: 8px;">
+        <img src="https://github.com/user-attachments/assets/9572552f-d9dc-430d-ac9c-74a6f8eed13c" alt="" style="width:100%;max-width:300px;height:auto;border-radius: 8px;">
       </td>
       <td align="center">
         <img src="URL_GAMBAR_BOOKSOFZEROES" alt="Tangkapan Layar Game BooksOfZeroes" style="width:100%;max-width:300px;height:auto;border-radius: 8px;">
