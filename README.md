@@ -54,14 +54,14 @@ Berikut adalah beberapa teknologi dan alat utama yang saya kuasai:
     </tr>
     <tr>
       <td valign="text-top">
-            **Deskripsi Singkat:** *Phoenix Run* Phoenix Run adalah proyek yang lahir dari keinginan untuk menciptakan pengalaman mobile/web casual yang sangat adiktif. Visi utama kami adalah membangun mekanik inti yang intuitif namun memiliki tingkat kesulitan tinggi. Kami menggunakan Unity dan C# untuk mewujudkan endless flyer di mana tantangan bukan hanya tentang kecepatan, tetapi juga tentang pengenalan pola cepat dalam menghadapi rintangan yang terus berubah.
+           **Deskripsi Singkat:**  Phoenix Run adalah proyek yang lahir dari keinginan untuk menciptakan pengalaman mobile/web casual yang sangat adiktif. Visi utama kami adalah membangun mekanik inti yang intuitif namun memiliki tingkat kesulitan tinggi. Kami menggunakan Unity dan C# untuk mewujudkan endless flyer di mana tantangan bukan hanya tentang kecepatan, tetapi juga tentang pengenalan pola cepat dalam menghadapi rintangan yang terus berubah.
 
             **Detail Teknis:**
             * **Durasi Pengerjaan:** 3 Minggu (Proyek Semester).
             * **Tim:** Justin Frederline Wijaya (Programmer Utama, Desain Level).
-      </td>
+     
       <td valign="text-top">
-            **Deskripsi Singkat:** *Coffee Simulator Game* adalah  prototipe simulator manajemen sumber daya sederhana yang dikembangkan dalam batasan waktu yang ketat, yaitu 6 jam. Proyek ini bertujuan untuk mendemonstrasikan kemampuan saya dalam merancang dan mengimplementasikan siklus ekonomi inti (core loop) secara cepat, mengelola scope creep, dan memastikan produk fungsional dalam jangka waktu yang sangat terbatas.
+            **Deskripsi Singkat:** *Coffee Simulator* adalah  prototipe simulator manajemen sumber daya sederhana yang dikembangkan dalam batasan waktu yang ketat, yaitu 6 jam. Proyek ini bertujuan untuk mendemonstrasikan kemampuan saya dalam merancang dan mengimplementasikan siklus ekonomi inti (core loop) secara cepat, mengelola scope creep, dan memastikan produk fungsional dalam jangka waktu yang sangat terbatas.
 
             **Detail Teknis:**
             * **Durasi Pengerjaan:** 6 Jam.
@@ -110,10 +110,11 @@ Berikut adalah beberapa teknologi dan alat utama yang saya kuasai:
       </td>
       <td valign="text-top">
             **Deskripsi Singkat:** *colboy* adalah game simulasi manajemen sumber daya yang menarik, menempatkan pemain pada posisi seorang mahasiswa yang harus menghadapi dilema keuangan nyata di tengah-tengah masa perkuliahan.
+            
             **Detail Teknis:**
             * **Durasi Pengerjaan:** 3 bulan.
             * **Tim:** Justin frederline wijaya(Ufx,programer) Matthew Alexander Sebastian Kotambonan(Game Designer,lead programer)
-      </td>
+     
     </tr>
     <tr>
       <td align="center">
