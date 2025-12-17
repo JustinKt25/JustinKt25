@@ -4,27 +4,26 @@
 
 ## 📌 About Me
 
-Halo! Saya **Justin Frederline Wijaya**, atau dikenal sebagai **JustinKt_**.
+Halo! Saya **Justin Frederline Wijaya**, juga dikenal sebagai **JustinKt_**.
 
-Saya adalah seorang *Game Programer* yang **Sangat bersemangat** dalam membuat Game-game simulator dan Game Roblox. Saya memiliki keahlian dalam pengembangan game menggunakan **Unity (C#)** dan juga aktif dalam menciptakan pengalaman imersif di platform **Roblox** menggunakan bahasa **Lua**.
+Saya adalah seorang **Game Programmer** yang sangat bersemangat dalam membuat game simulator dan game Roblox. Saya memiliki keahlian dalam pengembangan game menggunakan **Unity (C#)** serta aktif menciptakan pengalaman imersif di platform **Roblox** menggunakan **Lua**.
 
-Selain game development , saya juga memiliki kemampuan dalam pengembangan web dasar menggunakan **HTML, CSS, dan JavaScript**.
+Selain game development, saya juga memiliki kemampuan dasar dalam pengembangan web menggunakan **HTML, CSS, dan JavaScript**.
 
-Saya sedang berkuliah di binus universty Jurusan Game application Technology semester 5
+🎓 Saat ini saya berkuliah di **BINUS University**, jurusan **Game Application Technology**, semester 5.
 
-> **Minat Spesialisasi:** Game Programming (C#, Unity, Lua, Roblox)
+> **Minat Spesialisasi:**  
+> Game Programming (C#, Unity, Lua, Roblox)
 
 ---
 
 ## 🛠️ Skills & Tools
 
-Berikut adalah beberapa teknologi dan alat utama yang saya kuasai:
-
 ### 🎮 Game Development & Languages
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 ### 🌐 Web & Version Control
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -37,100 +36,121 @@ Berikut adalah beberapa teknologi dan alat utama yang saya kuasai:
 ## 🚀 Proyek Pilihan (Portfolio)
 
 <table width="100%">
-  <thead>
-    <tr>
-      <th width="50%" align="center"><h3>🐦 Phoenix Run</h3></th>
-      <th width="50%" align="center"><h3>☕ Coffee Simulator</h3></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="URL_GAMBAR_PHOENIX_RUN" alt="Tangkapan Layar Game Phoenix Run" style="width:100%;max-width:300px;height:auto;border-radius: 8px;">
-      </td>
-      <td align="center">
-        <img src="URL_GAMBAR_COFFEE_SIMULATOR" alt="Tangkapan Layar Game Coffee Simulator" style="width:100%;max-width:300px;height:auto;border-radius: 8px;">
-      </td>
-    </tr>
-    <tr>
-      <td valign="text-top">
-           **Deskripsi Singkat:**  Phoenix Run adalah proyek yang lahir dari keinginan untuk menciptakan pengalaman mobile/web casual yang sangat adiktif. Visi utama kami adalah membangun mekanik inti yang intuitif namun memiliki tingkat kesulitan tinggi. Kami menggunakan Unity dan C# untuk mewujudkan endless flyer di mana tantangan bukan hanya tentang kecepatan, tetapi juga tentang pengenalan pola cepat dalam menghadapi rintangan yang terus berubah.
+  <tr>
+    <th width="50%" align="center">🐦 Phoenix Run</th>
+    <th width="50%" align="center">☕ Coffee Simulator</th>
+  </tr>
 
-            **Detail Teknis:**
-            * **Durasi Pengerjaan:** 3 Minggu (Proyek Semester).
-            * **Tim:** Justin Frederline Wijaya (Programmer Utama, Desain Level).
-     
-      <td valign="text-top">
-            **Deskripsi Singkat:** *Coffee Simulator* adalah  prototipe simulator manajemen sumber daya sederhana yang dikembangkan dalam batasan waktu yang ketat, yaitu 6 jam. Proyek ini bertujuan untuk mendemonstrasikan kemampuan saya dalam merancang dan mengimplementasikan siklus ekonomi inti (core loop) secara cepat, mengelola scope creep, dan memastikan produk fungsional dalam jangka waktu yang sangat terbatas.
+  <tr>
+    <td align="center">
+      <img src="./assets/phoenix-run.gif" width="300">
+    </td>
+    <td align="center">
+      <img src="./assets/coffee-simulator.gif" width="300">
+    </td>
+  </tr>
 
-            **Detail Teknis:**
-            * **Durasi Pengerjaan:** 6 Jam.
-            * **Tim:** Justin Frederline Wijaya (Programmer,desain dan Artist).
-    </tr>
-    <tr>
-      <td align="center">
-            <a href="https://justinkt25.itch.io/phoneix-run" target="_blank">🕹️ Mainkan</a>
-            |
-            <a href="URL_REPO_PHOENIX_RUN_DETAILS" target="_blank">📄 Selengkapnya</a>
-      </td>
-      <td align="center">
-            <a href="https://justinkt25.itch.io/coffeshopsimulator" target="_blank">🕹️ Mainkan</a>
-            |
-            <a href="URL_REPO_COFFEE_SIMULATOR_DETAILS" target="_blank">📄 Selengkapnya</a>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td valign="top">
+      <b>Deskripsi Singkat:</b><br>
+      Phoenix Run adalah game <i>endless flyer</i> yang dirancang untuk menghadirkan pengalaman casual yang adiktif dengan fokus pada refleks dan pengenalan pola cepat.
+      <br><br>
+
+ <b>Detail Teknis:</b>
+      <ul>
+        <li><b>Engine:</b> Unity (C#)</li>
+        <li><b>Durasi:</b> 3 Minggu (Proyek Semester)</li>
+        <li><b>Tim:</b> Justin Frederline Wijaya (Programmer Utama, Level Design)</li>
+      </ul>
+    </td>
+
+<td valign="top">
+      <b>Deskripsi Singkat:</b><br>
+      Coffee Simulator adalah prototipe game simulator manajemen sumber daya yang dikembangkan dalam waktu 6 jam untuk mendemonstrasikan desain core gameplay loop.
+      <br><br>
+
+<b>Detail Teknis:</b>
+      <ul>
+        <li><b>Engine:</b> Unity (C#)</li>
+        <li><b>Durasi:</b> 6 Jam</li>
+        <li><b>Tim:</b> Justin Frederline Wijaya (Programmer, Designer, Artist)</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://justinkt25.itch.io/phoneix-run" target="_blank">🕹️ Mainkan</a>
+    </td>
+    <td align="center">
+      <a href="https://justinkt25.itch.io/coffeshopsimulator" target="_blank">🕹️ Mainkan</a>
+    </td>
+  </tr>
 </table>
 
 <br>
 
 <table width="100%">
-  <thead>
-    <tr>
-      <th width="50%" align="center"><h3>🔫 Shoot ME!</h3></th>
-      <th width="50%" align="center"><h3>📚 colboy</h3></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/9572552f-d9dc-430d-ac9c-74a6f8eed13c" alt="" style="width:100%;max-width:300px;height:auto;border-radius: 8px;">
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/1b5f457f-fbd8-4e9c-adbe-0f8bab36906f" alt="Tangkapan Layar Game BooksOfZeroes" style="width:100%;max-width:300px;height:auto;border-radius: 8px;">
-      </td>
-    </tr>
-    <tr>
-      <td valign="text-top">
-            **Deskripsi Singkat:** *Shoot ME!* adalah game *top-down shooter* yang menantang. Proyek ini fokus pada implementasi sistem kontrol karakter yang responsif, berbagai jenis senjata, dan *pattern* serangan musuh yang kompleks.
+  <tr>
+    <th width="50%" align="center">🔫 Shoot ME!</th>
+    <th width="50%" align="center">📚 Colboy</th>
+  </tr>
 
-            **Detail Teknis:**
-            * **Durasi Pengerjaan:** 4 jam.
-            * **Tim:** Justin frederline wijaya (game programer,artist dan designer).
-      </td>
-      <td valign="text-top">
-            **Deskripsi Singkat:** *colboy* adalah game simulasi manajemen sumber daya yang menarik, menempatkan pemain pada posisi seorang mahasiswa yang harus menghadapi dilema keuangan nyata di tengah-tengah masa perkuliahan.
-            
-            **Detail Teknis:**
-            * **Durasi Pengerjaan:** 3 bulan.
-            * **Tim:** Justin frederline wijaya(Ufx,programer) Matthew Alexander Sebastian Kotambonan(Game Designer,lead programer)
-     
-    </tr>
-    <tr>
-      <td align="center">
-            <a href="https://justinkt25.itch.io/shoot-me" target="_blank">🕹️ Mainkan</a>
-            |
-            <a href="https://github.com/JustinKt25/MygameUnity_" target="_blank">📄 Selengkapnya</a>
-      </td>
-      <td align="center">
-            <a href="https://easyacount.itch.io/colboy-alpha" target="_blank">🕹️ Mainkan</a>
-    </tr>
-  </tbody>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9572552f-d9dc-430d-ac9c-74a6f8eed13c" width="300">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1b5f457f-fbd8-4e9c-adbe-0f8bab36906f" width="300">
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top">
+      <b>Deskripsi Singkat:</b><br>
+      Shoot ME! adalah game <i>top-down shooter</i> dengan fokus pada kontrol karakter responsif dan variasi senjata.
+      <br><br>
+
+<b>Detail Teknis:</b>
+      <ul>
+        <li><b>Durasi:</b> 4 Jam</li>
+        <li><b>Tim:</b> Justin Frederline Wijaya (Programmer, Artist, Designer)</li>
+      </ul>
+    </td>
+
+<td valign="top">
+      <b>Deskripsi Singkat:</b><br>
+      Colboy adalah game simulasi manajemen yang menggambarkan tantangan finansial mahasiswa.
+      <br><br>
+
+<b>Detail Teknis:</b>
+      <ul>
+        <li><b>Durasi:</b> 3 Bulan</li>
+        <li><b>Tim:</b>
+          <ul>
+            <li>Justin Frederline Wijaya (UI/FX, Programmer)</li>
+            <li>Matthew Alexander Sebastian Kotambonan (Game Designer, Lead Programmer)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://justinkt25.itch.io/shoot-me" target="_blank">🕹️ Mainkan</a> |
+      <a href="https://github.com/JustinKt25/MygameUnity_" target="_blank">📄 Repository</a>
+    </td>
+    <td align="center">
+      <a href="https://easyacount.itch.io/colboy-alpha" target="_blank">🕹️ Mainkan</a>
+    </td>
+  </tr>
 </table>
 
-
+---
 
 ## 📩 Hubungi Saya
 
-* **Email:** [justin.wijaya002@binus.ac.id](mailto:justin.wijaya002@binus.ac.id)
-* **Itch.io:** [https://justinkt25.itch.io/](https://justinkt25.itch.io/)
+- **Email:** [justin.wijaya002@binus.ac.id](mailto:justin.wijaya002@binus.ac.id)
+- **Itch.io:** https://justinkt25.itch.io/
+- **GitHub:** https://github.com/JustinKt25
