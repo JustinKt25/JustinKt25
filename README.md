@@ -97,7 +97,7 @@ Berikut adalah beberapa teknologi dan alat utama yang saya kuasai:
         <img src="https://github.com/user-attachments/assets/9572552f-d9dc-430d-ac9c-74a6f8eed13c" alt="" style="width:100%;max-width:300px;height:auto;border-radius: 8px;">
       </td>
       <td align="center">
-        <img src="URL_GAMBAR_BOOKSOFZEROES" alt="Tangkapan Layar Game BooksOfZeroes" style="width:100%;max-width:300px;height:auto;border-radius: 8px;">
+        <img src="https://ezgif.com/video-to-gif/ezgif-74a5b4d680071085.mp4.html" alt="Tangkapan Layar Game BooksOfZeroes" style="width:100%;max-width:300px;height:auto;border-radius: 8px;">
       </td>
     </tr>
     <tr>
@@ -124,9 +124,6 @@ Berikut adalah beberapa teknologi dan alat utama yang saya kuasai:
       </td>
       <td align="center">
             <a href="https://easyacount.itch.io/colboy-alpha" target="_blank">🕹️ Mainkan</a>
-            |
-            <a href="URL_REPO_BOOKSOFZEROES_DETAILS" target="_blank">📄 Selengkapnya</a>
-      </td>
     </tr>
   </tbody>
 </table>
