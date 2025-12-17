@@ -97,7 +97,7 @@ Berikut adalah beberapa teknologi dan alat utama yang saya kuasai:
         <img src="https://github.com/user-attachments/assets/9572552f-d9dc-430d-ac9c-74a6f8eed13c" alt="" style="width:100%;max-width:300px;height:auto;border-radius: 8px;">
       </td>
       <td align="center">
-        <img src="https://ezgif.com/video-to-gif/ezgif-74a5b4d680071085.mp4.html" alt="Tangkapan Layar Game BooksOfZeroes" style="width:100%;max-width:300px;height:auto;border-radius: 8px;">
+        <img src="https://github.com/user-attachments/assets/1b5f457f-fbd8-4e9c-adbe-0f8bab36906f" alt="Tangkapan Layar Game BooksOfZeroes" style="width:100%;max-width:300px;height:auto;border-radius: 8px;">
       </td>
     </tr>
     <tr>
