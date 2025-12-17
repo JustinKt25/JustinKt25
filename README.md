@@ -138,7 +138,6 @@ Selain game development, saya juga memiliki kemampuan dasar dalam pengembangan w
   <tr>
     <td align="center">
       <a href="https://justinkt25.itch.io/shoot-me" target="_blank">🕹️ Mainkan</a> |
-      <a href="https://github.com/JustinKt25/MygameUnity_" target="_blank">📄 Repository</a>
     </td>
     <td align="center">
       <a href="https://easyacount.itch.io/colboy-alpha" target="_blank">🕹️ Mainkan</a>
