@@ -66,7 +66,7 @@ Selain game development, saya juga memiliki kemampuan dasar dalam pengembangan w
 
 <td valign="top">
       <b>Deskripsi Singkat:</b><br>
-      Coffee Simulator adalah prototipe game simulator manajemen sumber daya yang dikembangkan dalam waktu 6 jam untuk mendemonstrasikan desain core gameplay loop.
+      coffe simulator adalah prototipe simulator manajemen sumber daya sederhana yang dikembangkan dalam batasan waktu yang ketat, yaitu 6 jam. Proyek ini bertujuan untuk mendemonstrasikan kemampuan saya dalam merancang dan mengimplementasikan siklus ekonomi inti (core loop) secara cepat, mengelola scope creep, dan memastikan produk fungsional dalam jangka waktu yang sangat terbatas.
       <br><br>
 
 <b>Detail Teknis:</b>
@@ -107,9 +107,8 @@ Selain game development, saya juga memiliki kemampuan dasar dalam pengembangan w
 
   <tr>
     <td valign="top">
-      <b>Deskripsi Singkat:</b><br>
-      Shoot ME! adalah game <i>top-down shooter</i> dengan fokus pada kontrol karakter responsif dan variasi senjata.
-      <br><br>
+     <b>Deskripsi Singkat:</b><br>
+      Shoot me! adalah game *top-down shooter* yang menantang. Proyek ini fokus pada implementasi sistem kontrol karakter yang responsif, berbagai jenis senjata, dan *pattern* serangan musuh yang kompleks.
 
 <b>Detail Teknis:</b>
       <ul>
@@ -120,7 +119,7 @@ Selain game development, saya juga memiliki kemampuan dasar dalam pengembangan w
 
 <td valign="top">
       <b>Deskripsi Singkat:</b><br>
-      Colboy adalah game simulasi manajemen yang menggambarkan tantangan finansial mahasiswa.
+      colboy adalah game simulasi manajemen sumber daya yang menarik, menempatkan pemain pada posisi seorang mahasiswa yang harus menghadapi dilema keuangan nyata di tengah-tengah masa perkuliahan.
       <br><br>
 
 <b>Detail Teknis:</b>
