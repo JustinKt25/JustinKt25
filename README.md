@@ -48,7 +48,7 @@ Di luar game development, saya memiliki pemahaman dasar dalam pengembangan web m
       <img src="./assets/phoenix-run.gif" width="300">
     </td>
     <td align="center">
-      <img src="ezgif com-resize](https://github.com/user-attachments/assets/869b23f5-21c6-4863-b730-3abbd582b94e"width="300">
+      <img src="https://github.com/user-attachments/assets/869b23f5-21c6-4863-b730-3abbd582b94e"width="300">
     </td>
   </tr>
 
@@ -91,8 +91,8 @@ Di luar game development, saya memiliki pemahaman dasar dalam pengembangan web m
 
    <b>What I Learned:</b>
       <ul>
-        <li>Manajemen scope dalam pengembangan singkat</li>
-        <li>Perancangan core loop ekonomi sederhana</li>
+        <li>Manajemen scope dalam pembuatan game yang memiliki waktu singkat</li>
+        <li>pengdesainan core loop ekonomi sederhana</li>
         <li>Pengambilan keputusan teknis secara cepat</li>
       </ul>
     </td>
@@ -135,7 +135,7 @@ Di luar game development, saya memiliki pemahaman dasar dalam pengembangan web m
 
   <b>What I Learned:</b>
       <ul>
-        <li>Mengembangkan sistem kontrol pemain yang presisi</li>
+        <li>pengembangan sistem kontrol pemain yang presisi</li>
         <li>Membuat sistem senjata yang modular</li>
         <li>Merancang pola serangan musuh yang bervariasi</li>
       </ul>
