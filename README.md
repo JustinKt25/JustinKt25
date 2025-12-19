@@ -101,7 +101,6 @@ Di luar game development, saya memiliki pemahaman dasar dalam pengembangan web m
   <tr>
     <td align="center">
       <a href="https://justinkt25.itch.io/phoneix-run" target="_blank">🕹️ Mainkan</a> |
-      <a href="https://github.com/JustinKt25/Phoenix-Run" target="_blank">📂 Repository</a>
     </td>
     <td align="center">
       <a href="https://justinkt25.itch.io/coffeshopsimulator" target="_blank">🕹️ Mainkan</a> |
