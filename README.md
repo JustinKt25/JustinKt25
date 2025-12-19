@@ -45,7 +45,7 @@ Di luar game development, saya memiliki pemahaman dasar dalam pengembangan web m
 
   <tr>
     <td align="center">
-      <img src="./assets/phoenix-run.gif" width="300">
+      <img src="file:///C:/Users/user/Pictures/Screenshots/Screenshot%202025-12-19%20085130.png" width="300">
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/869b23f5-21c6-4863-b730-3abbd582b94e"width="300">
