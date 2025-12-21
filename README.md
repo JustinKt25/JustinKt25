@@ -173,6 +173,6 @@ Outside of game development, I have a basic understanding of web development usi
 
 ## 📩 Contact Me
 
-- **Email:** justin.wijaya002@binus.ac.id  
+- **Email:** justinpros25@gmail.com or justin.wijaya002@binus.ac.id  
 - **Itch.io:** https://justinkt25.itch.io  
 - **GitHub:** https://github.com/JustinKt25
